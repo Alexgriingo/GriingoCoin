@@ -1,0 +1,2 @@
+# GriingoCoin
+Cashmoney
